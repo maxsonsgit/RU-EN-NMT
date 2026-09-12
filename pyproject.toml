@@ -13,4 +13,7 @@ dependencies = [
     "matplotlib>=3.11.2",
     "pandas>=3.0.5",
     "torch>=2.14.0",
+    "scikit-learn>=1.9.1",
+    "nltk>=3.10.3",
+    "sacremoses>=0.2.0",
 ]

@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/ru_en_nmt/__init__.py
+src/ru_en_nmt.egg-info/PKG-INFO
+src/ru_en_nmt.egg-info/SOURCES.txt
+src/ru_en_nmt.egg-info/dependency_links.txt
+src/ru_en_nmt.egg-info/requires.txt
+src/ru_en_nmt.egg-info/top_level.txt
+src/ru_en_nmt/data/__init__.py
+src/ru_en_nmt/data/preproces.py
+src/ru_en_nmt/evaluation/__init__.py
+src/ru_en_nmt/evaluation/evaluation.py
+src/ru_en_nmt/models/01_ibm_model1.py
+src/ru_en_nmt/models/__init__.py
+src/ru_en_nmt/training/__init__.py

@@ -2,3 +2,5 @@
     remote = my_gdrive
 ['remote "my_gdrive"']
     url = gdrive://1MGZRVUgBM6KXwYDQA2jmStR8nEzSNESN
+    gdrive_use_service_account = false
+    gdrive_service_account_json_file_path = ../ru-en-nmt-oauth-credentials.json
